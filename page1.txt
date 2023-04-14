@@ -1,3 +1,5 @@
 2b98026
 6bfdd7 staged
 此行是工作目錄內的內容。
+
+美化mac終端機樣式（呈現分支名稱）https://gist.github.com/patw0929/9167f911223b0c30bd76
